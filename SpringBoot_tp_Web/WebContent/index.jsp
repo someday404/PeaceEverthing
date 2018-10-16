@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1> welcome to  beijing</h1>
+	<h2>i'm a  good person </h2>
 </body>
 </html>
